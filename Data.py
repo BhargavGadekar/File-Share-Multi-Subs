@@ -6,24 +6,24 @@ from pyrogram.types import InlineKeyboardButton
 
 class Data:
     HELP = """
-<b> ❏ Perintah untuk Pengguna BOT
- ├ /start - Mulai Bot
- ├ /about - Tentang Bot ini
- ├ /help - Bantuan Perintah Bot ini
- ├ /ping - Untuk mengecek bot hidup
- └ /uptime - Untuk melihat status bot 
+<b> ❏ BOT Commands 
+ ├ /start - Start The Bot
+ ├ /about - About This Bot
+ ├ /help - Get Sum Help
+ ├ /ping - BOT Ping
+ └ /uptime - BOT Uptime
  
- ❏ Perintah Untuk Admin BOT
- ├ /logs - Untuk melihat logs bot
- ├ /setvar - Untuk mengatur var dengan command dibot
- ├ /delvar - Untuk menghapus var dengan command dibot
- ├ /getvar - Untuk melihat salah satu var dengan command dibot
- ├ /users - Untuk melihat statistik pengguna bot
- ├ /batch - Untuk membuat link lebih dari satu file
- ├ /speedtest - Untuk Mengetes kecepatan server bot
- └ /broadcast - Untuk mengirim pesan broadcast ke pengguna bot
+ ❏ Commands for Admins
+ ├ /logs - Fuckin Logs
+ ├ /setvar - Dunno the use
+ ├ /delvar - Never Used, not useful 
+ ├ /getvar - Useless AF
+ ├ /users - Number of Users
+ ├ /batch - Batch
+ ├ /speedtest - Useless 
+ └ /broadcast - The Annoying Comand for Subs
 
-👨‍💻 Develoved by </b><a href='https://t.me/Lunatic0de/101'>@Lunatic0de</a>
+👨‍💻 Develoved by </b><a href='https://t.me/Bhargav_Gadekar'>@Bhargav_Gadekar</a>
 """
 
     close = [
@@ -45,13 +45,13 @@ class Data:
     ]
 
     ABOUT = """
-<b>Tentang Bot ini:
+<b>About This Bot:
 
-@{} adalah Bot Telegram untuk menyimpan Postingan atau File yang dapat Diakses melalui Link Khusus.
+@{} Billo Bagge Biliyan Da Ki Karegi, Bagga Bagge Billiyan Da Ki Karegi.
 
  • Creator: @{}
  • Framework: <a href='https://docs.pyrogram.org'>Pyrogram</a>
- • Source Code: <a href='https://github.com/mrismanaziz/File-Sharing-Man'>File-Sharing-Man v4</a>
+ • Source Code: <a href='https://t.me/Entertainment_District/4'>Repo Here</a>
 
-👨‍💻 Develoved by </b><a href='https://t.me/Lunatic0de/101'>@Lunatic0de</a>
+👨‍💻 Develoved by Owners of </b><a href='https://t.me/The_Otaku_Federation/86'>@The_Otaku_Federation</a>
 """
